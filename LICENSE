@@ -1,0 +1,31 @@
+Tengwar
+Copyright (c) 2026 ObiKanTV. All rights reserved.
+
+Tengwar is free to download and use. It is not open source.
+
+You may:
+
+- download Tengwar from its official releases page, https://github.com/ObiKanTV/Tengwar-releases/releases,
+  and install it on your own computers;
+- use it for your own play, including while you stream or record;
+- share the binding files and device templates Tengwar writes for you, and game files you add to it.
+
+You may not:
+
+- share, publish, sell, rent or give away Tengwar or its installer; point people to the official
+  releases page instead;
+- change, decompile or reverse engineer Tengwar, except where the law allows this regardless of
+  these terms;
+- use Tengwar, or any part of it, in another product or service.
+
+Tengwar is provided "as is", without warranty of any kind, express or implied, including fitness for a
+particular purpose. In no event shall the author be liable for any claim, damages or other
+liability arising from the use of Tengwar, including changes to game binding files it installs.
+
+Parts of Tengwar are other people's work under their own licences (the MoonSharp Lua interpreter in
+the optional DCS part, and the Microsoft WebView2 SDK). See THIRD-PARTY-NOTICES.md and the licenses
+folder; nothing here restricts the rights those licences give.
+
+Tengwar is not affiliated with or endorsed by Frontier Developments, Gaijin Entertainment, Egosoft,
+Eagle Dynamics, Heatblur Simulations, VKB, Logitech or any other game or hardware maker. Game and
+product names are trademarks of their owners.
